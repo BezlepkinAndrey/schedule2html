@@ -22,7 +22,7 @@ class FileDescription:
     def setExt(self, ext: str):
         self.ext = ext
 
-    def setBasePath(self, path: str):
+    def setPath(self, path: str):
         self.path = path
 
     def setFileName(self, fileName: str):
