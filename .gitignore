@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.idea
+environment.yml
+*/__pycache__
+test_data/
+test_results/
+build/
+
 # C extensions
 *.so
 
