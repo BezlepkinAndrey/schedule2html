@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 .idea
-environment.yml
 */__pycache__
 test_data/
 test_results/
